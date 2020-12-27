@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: I/O Streams -->
 # 附录:流式IO

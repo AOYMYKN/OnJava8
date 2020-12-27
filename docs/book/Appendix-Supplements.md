@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Supplements -->
 # 附录:补充

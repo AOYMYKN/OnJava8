@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: The Positive Legacy of C++ and Java -->
 # 附录:C++和Java的优良传统

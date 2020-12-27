@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Functional Programming -->
 # 第十三章 函数式编程

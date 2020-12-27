@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Passing and Returning Objects -->
 # 附录:对象传递和返回

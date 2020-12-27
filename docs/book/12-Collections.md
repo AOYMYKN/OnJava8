@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Collections -->
 # 第十二章 集合

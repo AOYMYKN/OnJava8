@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Polymorphism -->
 # 第九章 多态

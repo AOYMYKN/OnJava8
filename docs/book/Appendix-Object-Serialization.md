@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Object Serialization -->
 # 附录:对象序列化

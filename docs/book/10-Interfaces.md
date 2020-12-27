@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Interfaces -->
 # 第十章 接口

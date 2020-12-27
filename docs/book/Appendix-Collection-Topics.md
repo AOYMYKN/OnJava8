@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Collection Topics -->
 # 附录:集合主题

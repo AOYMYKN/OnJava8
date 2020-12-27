@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Validating Your Code -->
 

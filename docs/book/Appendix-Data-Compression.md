@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Data Compression -->
 # 附录:数据压缩

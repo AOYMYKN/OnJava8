@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Benefits and Costs of Static Type Checking -->
 # 附录:静态语言类型检查

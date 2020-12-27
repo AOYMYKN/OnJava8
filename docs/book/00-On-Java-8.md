@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/docs/images/cover.jpg" alt="cover" width="100%"/>
-</div>
 
 <div style="page-break-after: always;"></div>
 
@@ -15,18 +12,9 @@
 
 <center> MindView LLC </center>
 
-
 <center>2017</center>
 
-
 <center>©MindView LLC 版权所有</center>
-
-
-
-
-
-<div style="page-break-after: always;"></div>
-
 
 
 

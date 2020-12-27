@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Implementation Hiding -->
 # 第七章 封装

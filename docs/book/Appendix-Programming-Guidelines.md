@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Programming Guidelines -->
 # 附录:编程指南

@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Appendix: Becoming a Programmer -->
 # 附录:成为一名程序员

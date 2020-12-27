@@ -1,4 +1,4 @@
-[TOC]
+<!-- toc -->
 
 <!-- Type Information -->
 # 第十九章 类型信息
